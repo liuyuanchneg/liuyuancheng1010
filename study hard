@@ -1,0 +1,7 @@
+$ nvs remote node https://npmmirror.com/mirrors/node/
+$ nvs remote
+default             node
+chakracore          https://github.com/nodejs/node-chakracore/releases/
+chakracore-nightly  https://nodejs.org/download/chakracore-nightly/
+nightly             https://nodejs.org/download/nightly/
+node                https://nodejs.org/dist/
